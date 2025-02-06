@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=DM+Sans:wght@300;400;700&family=Oswald:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --luminous-vivid-orange: #ffa500;
+    --luminous-vivid-yellow: #ffcc00;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffe4;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--luminous-vivid-orange)
+}
+
+h1 {
+  font-family: 'Alfa Slab One', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 200;
+  margin: 40px 0;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+p, a {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+a {
+  color: var(--luminous-vivid-yellow); 
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #ffdd44;
+  text-decoration: underline;
+}
+
+#check-us-out-button {
+  background-color: var(--luminous-vivid-orange);
+  color: #1a1a1a;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  padding: 12px 24px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#check-us-out-button:hover {
+  background-color: #ffdd44;
+}
+
+.cta-button {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+/* Layout Fix for Large Screens */
+.primaryArrayImage {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+
+.primaryArrayImage img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(255, 165, 0, 0.3);
+}
+
+/* Event List Styling */
+ul.eventDates {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.event-item {
+  background: #222;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0 4px 10px rgba(255, 165, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+
+.event-item:hover {
+  transform: scale(1.05);
+}
+
+/* Animation Enhancements */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.highlight {
+  background: rgba(255, 165, 0, 0.2);
+  transition: background 0.3s ease-in-out;
+}
+
+
