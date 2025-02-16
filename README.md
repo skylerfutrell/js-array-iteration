@@ -75,9 +75,9 @@ Screenshots:
 
 License:
 
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
+    This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
 
-Copyright (c) [2024] [Skyler Futrell]
+    Copyright (c) [2024] [Skyler Futrell]
 
 📢 Acknowledgments:
 
