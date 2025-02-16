@@ -80,5 +80,6 @@ License:
     Copyright (c) [2024] [Skyler Futrell]
 
 📢 Acknowledgments:
+Thank you to the Oliver family for allowing me to use the image of Manuel creating art in honor of Joaquin. #vivaguac
 
 🔗 Connect With Me:
