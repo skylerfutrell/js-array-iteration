@@ -27,16 +27,16 @@
 
 🏁 Getting Started:
 
-  Prerequisites:
-  - A modern web browser.
-  - A local or online server to host the files (optional for testing).
+    Prerequisites:
+    - A modern web browser.
+    - A local or online server to host the files (optional for testing).
     
-  Installation:
-  - Download or clone the repository to your local machine.
-  - Ensure the following files are present in the project directory:
-    - index.html
-    - styles.css
-    - script.js
+    Installation:
+    - Download or clone the repository to your local machine.
+    - Ensure the following files are present in the project directory:
+      - index.html
+      - styles.css
+      - script.js
   
 📖 Usage:
 - Clone the repository. 
