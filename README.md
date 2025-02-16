@@ -18,10 +18,10 @@
   1. index.html
      - Contains the structure of the webpage, including the main content sections, headings, and placeholders for dynamically inserted elements such as event listings and images.
      It also links to external stylesheets and scripts for styling and interactivity.
-  3. styles.css
+  2. styles.css
      - Defines the styling for the webpage, including layout design, typography, colors, animations, and responsive adjustments to ensure a visually appealing and accessible user experience across different screen sizes.
      It also includes styles for dynamic elements such as fade-in effects and hover interactions.
-  5. script.js
+  3. script.js
      - Manages the interactive functionality of the webpage, including the typewriter effect for text animation, dynamic population of event data, image and button content insertion, hover effects, and smooth fade-in animations on 
      scroll. It also enhances user engagement by handling event listeners and applying visual highlights to elements.
 
