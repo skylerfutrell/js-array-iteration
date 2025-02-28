@@ -75,8 +75,7 @@
 
 Screenshots:
 
-![js-array-iteration-mobile-1](https://github.com/user-attachments/assets/bc826d9e-2ab1-401d-8594-1c52cdfae094)
-![js-array-iteration-mobile-2jpg](https://github.com/user-attachments/assets/691c0f6b-28d3-4afe-9c58-66a54590eb0e)
+![js-array-iteration-mobile-1](https://github.com/user-attachments/assets/bc826d9e-2ab1-401d-8594-1c52cdfae094) ![js-array-iteration-mobile-2jpg](https://github.com/user-attachments/assets/691c0f6b-28d3-4afe-9c58-66a54590eb0e)
 
 License:
 
