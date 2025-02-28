@@ -2,7 +2,7 @@
 
 ⭐ Created by Skyler Futrell
 
-👀 View on GitHub Pages: https://skylerfutrell.github.io/jQuery-form-validation/
+👀 View on GitHub Pages: https://skylerfutrell.github.io/js-array-iteration/
 
 📌 Project Overview: This project is a simple interactive events webpage, showcasing a dynamically generated list of upcoming events. The page features a typewriter effect for engaging text animations, smooth scroll-based animations for a visually appealing experience, and dynamic event rendering powered by JavaScript. Users can explore key event details, including dates, locations, and descriptions, with links to external resources for further engagement. The webpage is designed to be both aesthetically compelling and user-friendly.
 
