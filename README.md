@@ -2,6 +2,8 @@
 
 ⭐ Created by Skyler Futrell
 
+👀 View on GitHub Pages: https://skylerfutrell.github.io/jQuery-form-validation/
+
 📌 Project Overview: This project is a simple interactive events webpage, showcasing a dynamically generated list of upcoming events. The page features a typewriter effect for engaging text animations, smooth scroll-based animations for a visually appealing experience, and dynamic event rendering powered by JavaScript. Users can explore key event details, including dates, locations, and descriptions, with links to external resources for further engagement. The webpage is designed to be both aesthetically compelling and user-friendly.
 
 🚀 Features:
@@ -73,6 +75,9 @@
 
 Screenshots:
 
+![js-array-iteration-mobile-1](https://github.com/user-attachments/assets/bc826d9e-2ab1-401d-8594-1c52cdfae094)
+![js-array-iteration-mobile-2jpg](https://github.com/user-attachments/assets/691c0f6b-28d3-4afe-9c58-66a54590eb0e)
+
 License:
 
     This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
@@ -80,6 +85,11 @@ License:
     Copyright (c) [2024] [Skyler Futrell]
 
 📢 Acknowledgments:
+
 Thank you to the Oliver family for allowing me to use the image of Manuel creating art in honor of Joaquin. #vivaguac
 
 🔗 Connect With Me:
+
+Website:
+
+Linkedin:
