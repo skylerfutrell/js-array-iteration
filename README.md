@@ -89,6 +89,4 @@ Thank you to the Oliver family for allowing me to use the image of Manuel creati
 
 🔗 Connect With Me:
 
-Website:
-
-Linkedin:
+[Visit My Website](https://www.futrellstudioportfolio.com/)
