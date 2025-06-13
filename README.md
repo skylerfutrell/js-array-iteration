@@ -75,9 +75,7 @@
 
 License:
 
-    This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
-
-    Copyright (c) [2024] [Skyler Futrell]
+This project is open-source and available under the MIT License. [LICENSE](https://github.com/skylerfutrell/js-array-iteration/blob/main/LICENSE)
 
 📢 Acknowledgments:
 
